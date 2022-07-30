@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
+    "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
   },
   "projects": {
-    "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
+    "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectUniqueName": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Api\\ShopOnline.Api.csproj",
         "projectName": "ShopOnline.Api",
-        "projectPath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectPath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Api\\ShopOnline.Api.csproj",
         "packagesPath": "C:\\Users\\Oshan\\.nuget\\packages\\",
-        "outputPath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+        "outputPath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-                "projectPath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
+              "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectPath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\Oshan\\.nuget\\packages\\",
-        "outputPath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+        "outputPath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oshan\\AppData\\Roaming\\NuGet\\NuGet.Config",

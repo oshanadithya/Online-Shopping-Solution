@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MS3AUX26IUwqMJzQDpQj4nj1upy6wCG4HnLA2Gxyt4w/MSqb99QQwjuNW5/2qmjOARJmHsxVpYBZtFZepTd1tg==",
+  "dgSpecHash": "vpwkgoVqkvQs+xI/DFil9Y5fgwzEH3MNqh9CsDHqSnK9TyVERPBD9LozgkaeQVblmOFaQbmLUBDOLEJMa3mR9Q==",
   "success": true,
-  "projectFilePath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oshan\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\Oshan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",

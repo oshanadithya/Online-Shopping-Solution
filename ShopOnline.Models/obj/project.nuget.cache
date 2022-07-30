@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C5LMf5g7FGwPrRTxPStodJyCI2uUVvkwVZBaRW++JH+bqBnne/quttFlSlgemkBXjLJc9kel55PSTUePu5PuVQ==",
+  "dgSpecHash": "7fXMbv+2DxMJMmeesscLsD/f1xMGL3Majih+618Fhn1u1Vxgmo2KLjP9xOG+OFAbgKY87oDNblvnhk+HP2ssHw==",
   "success": true,
-  "projectFilePath": "O:\\Workspace\\Blazor\\ShopOnlineSolution\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "projectFilePath": "O:\\Workspace\\Blazor\\Online-Shopping-Solution\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
